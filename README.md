@@ -1,5 +1,5 @@
 # Stellar Classification with RandomForest and SVM
-
+![Space Image](imgs/space.jpg)
 ## Project Overview
 
 This project focuses on classifying stellar objects (stars, galaxies, and quasars) based on astronomical features extracted from observational data. Utilizing machine learning techniques, specifically RandomForest and Support Vector Machines (SVM), this project aims to build robust models for accurate stellar classification.
